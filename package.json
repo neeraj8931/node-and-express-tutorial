@@ -1,0 +1,15 @@
+{
+  "name": "node-and-express",
+  "version": "1.0.0",
+  "description": "Fisrt API testing",
+  "main": "1- Intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "lodash": "^4.17.21"
+  }
+}
